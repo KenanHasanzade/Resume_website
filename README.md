@@ -8,6 +8,7 @@
   
 </div>
 <img alt="Demo" src="./resume2.jpg" />
+<img alt="Demo" src="./resume4.jpg" />
 <br/>
 
 <center>
