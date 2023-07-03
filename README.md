@@ -7,8 +7,9 @@
   <img alt="Demo" src="./resume3.jpg" />
   
 </div>
-<img alt="Demo" src="./resume2.jpg" />
-<img alt="Demo" src="./resume4.jpg" />
+<div align="center"><img alt="Demo" src="./resume2.jpg" />
+<img alt="Demo" src="./resume4.jpg" /></div>
+
 <br/>
 
 <center>
