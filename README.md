@@ -1,11 +1,11 @@
 <h2 align="center">
-  Portfolio Website <br/>
+  Resposive Portfolio Website <br/>
 
 </h2>
 <div align="center">
   <img alt="Demo" src="./resume1.jpg" />
-  <img alt="Demo" src="./resume2.jpg" />
   <img alt="Demo" src="./resume3.jpg" />
+  <img alt="Demo" src="./resume2.jpg" />
 </div>
 
 <br/>
