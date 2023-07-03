@@ -22,7 +22,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KenanHasanzade](https://github.com/KenanHasanzade/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KenanHasanzade](https://github.com/KenanHasanzade/Resume_website). Thanks!
 
 ## Built With
 
